@@ -1,0 +1,11 @@
+Algorithme Rang
+    Debut 
+    a,b,c : caractère ;
+    Ecrire ("Saisir les trois noms");
+    Lire (a,b,c);
+    Si ( a < b et b < c) alors 
+        Ecrire ("Les noms sont rangés alphabétiquement");
+        Sinon
+        Ecrire ("Les noms ne sont rangés alphabétiquement");
+    Finsi
+    Fin                                                                                  
