@@ -1,0 +1,11 @@
+Agorithme Message 
+Debut
+n : entier ;
+Afiicher ("Saisir le nombre demander");
+Saisir ( n);
+    Si (n > 0)  alors 
+        afficher ("Positif");
+        Sinon
+        Afficher ("Négatif");
+    Finsi
+  Fin    
