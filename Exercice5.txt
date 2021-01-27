@@ -1,0 +1,18 @@
+Agorithme Message 
+Variable 
+n : entier ;
+Debut
+
+Ecrire ("Saisir le nombre demander");
+Lire ( n);
+    Si (n = 0)  alors 
+        afficher ("Nul");
+        Sinon
+            Si ( n < 0) alors 
+        Afficher ("Négatif");
+            Sinon
+            Ecrire("Positif");
+            Finsi
+    Finsi
+
+  Fin

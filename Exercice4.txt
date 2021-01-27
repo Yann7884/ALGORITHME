@@ -1,0 +1,21 @@
+Algorithme Age
+Variable
+age  : entier ;
+    Debut 
+    
+    Ecrire ("Saisir age");
+    Lire (age);
+    Si ( age >= 6 et age <= 7) alors 
+        Ecrire ("Poussin");
+        Sinon
+            Si ( age >= 8 et age <= 9) alors 
+        Ecrire ("Pupille");
+         Sinon 
+            Si ( age >= 10 et age <= 11) alors
+                Ecrire("Minime");
+            Sinon 
+                Si ( age >= 12) alors 
+                    Ecrire("Cadet");
+                Finsi
+    Finsi
+    Fin             

@@ -1,6 +1,8 @@
 Algorithme Rang
+Variable
+a,b,c : caractère ;
     Debut 
-    a,b,c : caractère ;
+    
     Ecrire ("Saisir les trois noms");
     Lire (a,b,c);
     Si ( a < b et b < c) alors 
