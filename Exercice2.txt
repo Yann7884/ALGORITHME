@@ -1,0 +1,17 @@
+Agorithme Message 
+Variable 
+n1,n2 : entier ;
+Debut
+
+Ecrire ("Saisir les deux nombres demander");
+Lire ( n);
+    Si (n1 > 0 et n2 > 0)  alors 
+            Ecrire(" Le produit est Positif");
+        Sinon
+            Si ( n1 < 0 et n2 < 0) alors 
+        Ecrire (" Le produit est Négatif");
+            
+            Finsi
+    Finsi
+
+  Fin

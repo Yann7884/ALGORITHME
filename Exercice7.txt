@@ -1,0 +1,14 @@
+Agorithme Message 
+Variable
+a,b,c  : entier ;
+ a : hypothenus
+Debut
+Afiicher ("Saisir le nombre demander");
+Saisir ( n);
+    Si ( a * a = b * b + c * c )  alors 
+        afficher ("Triangle Rectangle");
+        Sinon
+        Afficher ("Triangle non Rectangle");
+    Finsi
+
+  Fin
