@@ -8,4 +8,5 @@ Saisir ( n);
         Sinon
         Afficher ("Négatif");
     Finsi
-  Fin    
+
+  Fin
